@@ -32,3 +32,13 @@
   justify-content: center;
 }
 
+.font{
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  font-style:normal;
+  
+  color: aliceblue;
+ 
+}
+
